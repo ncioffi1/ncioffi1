@@ -23,7 +23,7 @@ I’m a software engineer that makes applications & games. I love taking project
 ### My Activities
  <div align="left">
 <a href="https://github.com/ncioffi1">
-  <img  alt="Pepyn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncioffi1&theme=cobalt&layout=compact&hide_border=true&count_private=true" />
+  <img  alt="Pepyn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncioffi1&theme=radical&layout=compact&hide_border=true&count_private=true" />
 </a>
 </div>
   
