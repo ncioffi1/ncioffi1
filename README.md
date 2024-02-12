@@ -1,8 +1,8 @@
-### 👋 Hey, I'm Nick Cioffi
+## 👋 Hey, I'm Nick Cioffi
 
 I’m a software engineer that makes applications & games. I love taking projects over the finish line, and I always enjoy a good challenge.
 
-### Contact Info
+## Contact Info
 
 <div align="left">
   <a href="mailto:imnickcioffi@gmail.com" target="_blank">
@@ -20,17 +20,15 @@ I’m a software engineer that makes applications & games. I love taking project
 </div>
 
   
-### My Activities
+## My Activities
 
 <div>
     <a href="https://github.com/ncioffi1">
-    <img alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erklee&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+        <img alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erklee&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    </a>
 </div>
-  
-<br/>
 
-### Tech Stack
+## Tech Stack
 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
@@ -47,6 +45,7 @@ I’m a software engineer that makes applications & games. I love taking project
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
+
 <!--
 **ncioffi1/ncioffi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
