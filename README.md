@@ -21,12 +21,15 @@ I’m a software engineer that makes applications & games. I love taking project
 
   
 ### My Activities
- <div align="left">
+
+<div align="left">
     <a href="https://github.com/ncioffi1">
     <img align="left" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erklee&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
   
+<br/>
+
 ### Tech Stack
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
