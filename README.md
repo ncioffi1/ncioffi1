@@ -22,12 +22,14 @@ I’m a software engineer that makes applications & games. I love taking project
   
 ### My Activities
  <div align="left">
-<a href="https://github.com/ncioffi1">
+    <a href="https://github.com/ncioffi1">
     <img align="left" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erklee&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
   
 ### Tech Stack
+
+<div>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -41,6 +43,7 @@ I’m a software engineer that makes applications & games. I love taking project
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+</div>
 
 <!--
 **ncioffi1/ncioffi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
