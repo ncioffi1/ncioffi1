@@ -1,24 +1,10 @@
-## 👋 Hey, I'm Nick Cioffi
+# 👋 Hey, I'm Nick Cioffi
 
-I’m a software engineer that makes applications & games. I love taking projects over the finish line, and I always enjoy a good challenge.
-
-## Contact Info
-
-<div align="left">
-  <a href="mailto:imnickcioffi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <a href="https://ncioffi1.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/nicholas-cioffi-373913139/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIN"/>
-  </a>
-
-</div>
-
+## About Me
+* 💾 Software engineer that makes applications & games. I love taking projects over the finish line, and I always enjoy a good challenge!
+* 📚 App Academy graduate, trained in using JavaScript, Ruby, SQL, MERN Stack, and more!
+* 👾 Indie game dev with games published on Steam & Itch.io
+* 🎮 Creator, Innovator, Dungeons and Dragons player
   
 ## My Activities
 
@@ -44,6 +30,23 @@ I’m a software engineer that makes applications & games. I love taking project
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</div>
+
+## 📫 Contact Info
+
+<div align="left">
+  <a href="mailto:imnickcioffi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://ncioffi1.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nicholas-cioffi-373913139/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIN"/>
+  </a>
+
 </div>
 
 <!--
