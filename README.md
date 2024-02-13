@@ -1,5 +1,8 @@
 # 👋 Hey, I'm Nick Cioffi
 
+Welcome to my GitHub!  Thanks for stopping by.
+
+![Welcome GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d6cjIyMTlnMnRwa2k2cGdnYW04aHAwcnNzcml3Z2k5eXl4bnhsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10bxTLrpJNS0PC/giphy.gif)
 ## About Me
 * 💾 Software engineer that makes applications & games. I love taking projects over the finish line, and I always enjoy a good challenge!
 * 📚 App Academy graduate, trained in using JavaScript, Ruby, SQL, MERN Stack, and more!
@@ -30,6 +33,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
 ## 📫 Contact Info
