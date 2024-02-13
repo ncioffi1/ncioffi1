@@ -44,7 +44,7 @@ Welcome to my GitHub!  Thanks for stopping by.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://ncioffi1.github.io/Portfolio/" target="_blank">
+  <a href="https://ncioffi1.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
   
